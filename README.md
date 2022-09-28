@@ -18,4 +18,5 @@ Check my portfolio here and feel free to contact me.
 ### Contact me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=telegram)](https://t.me/olyadoroshenko)
-[![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=Email)](dorosh3nko.o@yandex.ru)
+
+![Email:](https://img.shields.io/badge/Email:-dorosh3nko.o@yandex.ru-grey?style=flat&logo=)
