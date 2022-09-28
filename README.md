@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi everyone! I'm Olya 👩🏼‍💻
 
-<!--
-**dorosholga/dorosholga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Data Analyst. Currently I'm improving my skills in database queries, programming and data visualization.
 
-Here are some ideas to get you started:
+Check my portfolio here and feel free to contact me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=python)
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-grey?style=flat&logo=jupyter)
+![Pandas](https://img.shields.io/badge/-Pandas-grey?style=flat&logo=pandas)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=flat&logo=PostgreSQL)
+![Tableau](https://img.shields.io/badge/-Tableau-grey?style=flat&logo=Tableau)
+![Linux](https://img.shields.io/badge/-Linux-grey?style=flat&logo=linux)
+
+
+### Contact me
+
+![Telegram(t.me/olyadoroshenko)](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=telegram)
+![Email(dorosh3nko.o@yandex.ru)](https://img.shields.io/badge/-Email-grey?style=flat&logo=)
